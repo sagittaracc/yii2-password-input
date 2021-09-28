@@ -34,12 +34,10 @@
                     var span = el.find(">span");
 
                     if (input.val() === $("#new_password").val()) {
-                        $(".btn-primary").attr("disabled", false);
                         span.addClass("hidden");
                         check.fadeIn(200);
                         input.css("background-color", "rgba(251, 218, 218, 0)");
                     } else {
-                        $(".btn-primary").attr("disabled", true);
                         span.removeClass("hidden");
                         check.css("display", "none");
                         input.css("background-color", "rgba(251, 218, 218, 0.3)");
