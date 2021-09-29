@@ -46,8 +46,8 @@ class PasswordInput extends Widget
         ]);
 
         echo Html::tag('i', '', [
-            'class' => 'fa eye fa-eye',
-            'style' => 'position: absolute; right: 12px; top: 2px; cursor: pointer; font-size: 17px; background: #f4efef; height: 30px; padding-top: 6px; padding-left: 9px; border-radius: 0 5px 5px 0; width: 34px; border-left: 1px solid #cccccc; color: #868686;',
+            'class' => 'fa eye fa-eye-slash',
+            'style' => 'position: absolute; right: 12px; top: 2px; cursor: pointer; font-size: 17px; background: #f6f8fa; height: 30px; padding-top: 6px; padding-left: 9px; border-radius: 0 5px 5px 0; width: 34px; border-left: 1px solid #cccccc; color: #868686;',
             'onclick' => '
                 var block = $(this).closest(".password-block");
                 var input = block.find(">input");
