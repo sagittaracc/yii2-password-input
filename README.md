@@ -2,7 +2,7 @@
 
 ## How it looks
 
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/9TSQtmx/yii2-password-input.gif" alt="yii2-password-input" border="0" /></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/pfKSmqj/yii2-password-input-widget.gif" alt="yii2-password-input-widget" border="0" /></a>
 
 ## Usage
 
