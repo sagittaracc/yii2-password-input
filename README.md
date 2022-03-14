@@ -1,10 +1,6 @@
-# yii2-password-input
-
-## How it looks
-
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/pfKSmqj/yii2-password-input-widget.gif" alt="yii2-password-input-widget" border="0" /></a>
 
-## Usage
+## Пример
 
 ```html
 <div class="form-group row">
